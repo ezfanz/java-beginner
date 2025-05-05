@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Datatype {
     public static void main(String[] args) {
 
         // THIS IS MY FIRST JAVA PROGRAM

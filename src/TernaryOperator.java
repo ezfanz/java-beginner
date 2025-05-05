@@ -8,7 +8,7 @@ public class TernaryOperator {
          * variable = (condition) ? ifTrue : ifFalse;
          * */
 
-        int score = 70;
+        int score = 30;
         int number = 3;
         int hours = 9;
         int income = 60000;
